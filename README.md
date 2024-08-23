@@ -7,7 +7,7 @@
 
 ## Mi Trayectoria como profesional
 
-<img align="right" alt="cubo" width="350" src="https://github.com/JessBasile/JessBasile/blob/main/cubo_negro.gif?raw=true">Aquí tienes una versión mejorada de tu perfil profesional:
+<img align="right" alt="cubo" width="350" src="https://github.com/JessBasile/JessBasile/blob/main/cubo_negro.gif?raw=true">
 
 ---
 <p  style="text-align: justify; color:#666">
