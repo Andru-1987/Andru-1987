@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">¡Bienvenido/a! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Soy Anderson Ocana</h2>
-<h3 align="center">Data scientist, Data engineer entre otras cosas locas 💻 en constante capacitación 👩‍🎓 y con vocacion en la docencia</h3>
+<h3 align="center">Data scientist, Data engineer entre otras cosas locas 💻 en constante capacitación 👩‍🎓 y con vocación en la docencia</h3>
 
 ## Mi Trayectoria como profesional
 
@@ -22,7 +22,7 @@
 - 👩‍🎓 Actualmente me encuentro trabajando como Data Scientist para una gran empresa: La Nación 
 - 🛠 **Habilidades:** **Desarrollo de bases de datos, Visualización de datos, Análisis de datos, ELT's , etc ...**
 - 📚 **Tecnologías:** **MySQL, SQL Server, Contenedores, GitHub, Python,  Linux,otros**
-- 📫 Contactamé a través de **andru.ocatorres@gmail.com**
+- 📫 Contactame a través de **andru.ocatorres@gmail.com**
 
 
 <p align="center">
@@ -43,4 +43,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Andru-1987&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
